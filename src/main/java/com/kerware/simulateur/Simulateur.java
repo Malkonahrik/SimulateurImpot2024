@@ -29,7 +29,7 @@ public class Simulateur {
     private int l01 = 11294;
     private int l02 = 28797;
     private int l03 = 82341;
-    private int l04 = 177106;
+    private int l04 = -177106;
     private int l05 = Integer.MAX_VALUE;
 
     private int[] limites = new int[6];
