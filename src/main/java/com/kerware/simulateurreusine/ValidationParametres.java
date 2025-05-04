@@ -1,3 +1,5 @@
+package com.kerware.simulateurreusine;
+
 public class ValidationParametres {
     public static void valider(RevenuInfos infos) {
         if (infos.getRevenus() < 0) {

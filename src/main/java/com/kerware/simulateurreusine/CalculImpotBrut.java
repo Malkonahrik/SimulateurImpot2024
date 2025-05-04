@@ -1,3 +1,5 @@
+package com.kerware.simulateurreusine;
+
 public class CalculImpotBrut {
     private static final double[] SEUILS = { 10777, 27478, 78570, 168994 };
     private static final double[] TAUXS = { 0.0, 0.11, 0.30, 0.41, 0.45 };
